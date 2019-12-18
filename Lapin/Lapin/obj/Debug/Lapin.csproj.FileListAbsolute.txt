@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Lapin\Lapin\bin\Debug\Lapin.exe.config
+C:\Users\asus\source\repos\Lapin\Lapin\bin\Debug\Lapin.exe
+C:\Users\asus\source\repos\Lapin\Lapin\bin\Debug\Lapin.pdb
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.Form1.resources
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.Properties.Resources.resources
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.exe
+C:\Users\asus\source\repos\Lapin\Lapin\obj\Debug\Lapin.pdb
